@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\Ado.NetDemo\Ado.NetDemo\bin\Debug\Ado.NetDemo.exe.config
+C:\Users\admin\source\repos\Ado.NetDemo\Ado.NetDemo\bin\Debug\Ado.NetDemo.exe
+C:\Users\admin\source\repos\Ado.NetDemo\Ado.NetDemo\bin\Debug\Ado.NetDemo.pdb
+C:\Users\admin\source\repos\Ado.NetDemo\Ado.NetDemo\obj\Debug\Ado.NetDemo.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Ado.NetDemo\Ado.NetDemo\obj\Debug\Ado.NetDemo.Form1.resources
+C:\Users\admin\source\repos\Ado.NetDemo\Ado.NetDemo\obj\Debug\Ado.NetDemo.Properties.Resources.resources
+C:\Users\admin\source\repos\Ado.NetDemo\Ado.NetDemo\obj\Debug\Ado.NetDemo.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Ado.NetDemo\Ado.NetDemo\obj\Debug\Ado.NetDemo.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Ado.NetDemo\Ado.NetDemo\obj\Debug\Ado.NetDemo.exe
+C:\Users\admin\source\repos\Ado.NetDemo\Ado.NetDemo\obj\Debug\Ado.NetDemo.pdb
